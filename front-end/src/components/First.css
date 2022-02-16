@@ -1,0 +1,17 @@
+.first{
+    border:  1px solid #e9d8c9;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.im{
+    display: flex;
+    justify-content: center;
+}
+.imageF{
+    border: 1.5px solid black ;
+    width: 92%;
+    height: 80%!important;
+    
+}
+Link{
+    text-decoration: none;
+}
